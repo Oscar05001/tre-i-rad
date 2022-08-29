@@ -111,7 +111,10 @@ namespace Tre_i_rad
             Console.WriteLine("["+tal7+"] ["+tal8+"] ["+tal9+"]");
             Console.WriteLine(""); 
 
-            tur = "O";
+            if(tur == "X")
+                tur = "O";
+            else
+                tur = "X";
         
         }
 

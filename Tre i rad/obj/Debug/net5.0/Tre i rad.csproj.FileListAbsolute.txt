@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\GitHub\tre-i-rad\Tre i rad\bin\Debug\net5.0\Tre i rad.exe
+C:\Users\Admin\Documents\GitHub\tre-i-rad\Tre i rad\bin\Debug\net5.0\Tre i rad.deps.json
+C:\Users\Admin\Documents\GitHub\tre-i-rad\Tre i rad\bin\Debug\net5.0\Tre i rad.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\tre-i-rad\Tre i rad\bin\Debug\net5.0\Tre i rad.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\tre-i-rad\Tre i rad\bin\Debug\net5.0\Tre i rad.dll
+C:\Users\Admin\Documents\GitHub\tre-i-rad\Tre i rad\bin\Debug\net5.0\Tre i rad.pdb
+C:\Users\Admin\Documents\GitHub\tre-i-rad\Tre i rad\obj\Debug\net5.0\Tre i rad.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\tre-i-rad\Tre i rad\obj\Debug\net5.0\Tre i rad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\tre-i-rad\Tre i rad\obj\Debug\net5.0\Tre i rad.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\tre-i-rad\Tre i rad\obj\Debug\net5.0\Tre i rad.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\tre-i-rad\Tre i rad\obj\Debug\net5.0\Tre i rad.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\tre-i-rad\Tre i rad\obj\Debug\net5.0\Tre i rad.dll
+C:\Users\Admin\Documents\GitHub\tre-i-rad\Tre i rad\obj\Debug\net5.0\refint\Tre i rad.dll
+C:\Users\Admin\Documents\GitHub\tre-i-rad\Tre i rad\obj\Debug\net5.0\Tre i rad.pdb
+C:\Users\Admin\Documents\GitHub\tre-i-rad\Tre i rad\obj\Debug\net5.0\Tre i rad.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\tre-i-rad\Tre i rad\obj\Debug\net5.0\ref\Tre i rad.dll

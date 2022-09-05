@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+Q0n6TbHPyV5jMF6vN54sp09h8aMVg8OAip3fDewfazeNi1YiImM1C0DJ/8R5DDeyKSXq562ZiXP/JUTz8TBNQ==",
+  "dgSpecHash": "POGWfrJP3fa0EWZN/WdlMrdIBCOP72B+hyD+/FKUTy3aNH5I6qiky+DiumemJOHbV7GeRE+Mi8gSvLjmtsCDuA==",
   "success": true,
-  "projectFilePath": "E:\\Programering\\Tre i rad\\Tre i rad.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\tre-i-rad\\Tre i rad\\Tre i rad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
